@@ -1,0 +1,9 @@
+Ach,Mary 99 68 78 70 81 88 79 94
+Baker,Julie 45 97 86 56 66 68 47 89
+Boyle,Joseph 56 76 89 45 56 67 95 80
+Ford,Wayne 78 90 89 76 56 78 78 65
+Huston,Connie 99 56 78 90 66 78 50 60
+Kinney,Amy 69 87 77 70 81 78 93 91
+Korpics,Wayne 87 90 86 56 79 88 78 56
+Lenhart,Misty 69 89 78 90 89 65 97 69
+Norris,Brent 56 90 54 87 86 77 77 79
